@@ -1,0 +1,5 @@
+{
+  "name": "CareerGuardian AI",
+  "description": "An automated job application tracker powered by Gemini, featuring Gmail extraction simulation, Kanban board management, and AI-driven career insights. Designed to showcase Cloud Run and GCP architecture concepts.",
+  "requestFramePermissions": []
+}
